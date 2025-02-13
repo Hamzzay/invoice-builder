@@ -1,0 +1,33 @@
+{
+    "poppins": {
+        "normal": "poppins_normal_fae630db9af5026f00568ee4f69f1000"
+    },
+    "open sans": {
+        "300_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_300_italic_945d8dd4a3efccc1bb28c16b6242db51",
+        "italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_italic_877b1c2661afb6fd8801d8d676e92166",
+        "500_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_500_italic_6553c22d1e76c3d4440f64b48805fc7c",
+        "600_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_600_italic_38650afefae818658a58a3f734c27327",
+        "bold_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_bold_italic_f909b48de15edc7e40c0cecc141c2730",
+        "800_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_800_italic_0a4825527362f06dbcf6601f5ab55f61",
+        "300": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_300_8513b9024ad211a10e857eba11f0f357",
+        "normal": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_normal_2bf6e8a03908d49a7fa7b1094b0c2804",
+        "500": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_500_663f11545dfeea65b44b2da12b5a66b1",
+        "600": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_600_94288badef373364367fbfb769e688ce",
+        "bold": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/open_sans_bold_0e7196744e416eea97ecd5b9781a44c2",
+        "800": "open_sans_800_32706e64358098f2a0ad457efc8e0229"
+    },
+    "roboto": {
+        "100_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_100_italic_559ac2b90f004b83f21d8500a4fda7c4",
+        "300_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_300_italic_d317fa2237b7962a3fd66adfa8987f1e",
+        "italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_italic_322eb4a8c28cb60b9c1aea4b47a56aa3",
+        "500_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_500_italic_bd56a7ae3eb165c15ffb40cbf80eb5dc",
+        "bold_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_bold_italic_f52b3176ccea70da0d52f18e0938a607",
+        "900_italic": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_900_italic_cddf88f6c34a9ba52072143e639c8202",
+        "100": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_100_9234a3ac26ff1592485d2aabcb2c9d8e",
+        "300": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_300_cc4e76f50b66ce9ac2b3d8a19b5f276d",
+        "normal": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_normal_e794639d941c5ae548beb5b53f96d8e5",
+        "500": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_500_64eaa50e2bf35fe15f6cb55ada83a64e",
+        "bold": "C:\\xampp\\htdocs\\laravel-project\\invoice_builder\\storage\\\/fonts\/roboto_bold_9420b318fa9b620e67bbd96e8ff529e0",
+        "900": "roboto_900_23e21dd11a29036fdf461b3dbe1796a8"
+    }
+}
